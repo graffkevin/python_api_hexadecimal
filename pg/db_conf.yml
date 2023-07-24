@@ -1,0 +1,5 @@
+dbname: "geofalco"
+user: "geouser"
+password: "geopassword"
+host: 127.0.0.1
+port: 5433
